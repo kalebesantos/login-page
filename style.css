@@ -152,7 +152,7 @@ form input[type="submit"]:hover{
 
 @media (max-width: 430px){
     body{
-        background: blue;
+        background: red;
     }
 
     main.container{
